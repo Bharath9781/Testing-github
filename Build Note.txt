@@ -1,0 +1,112 @@
+RegeNext Build Note
+
+App Level -
+
+TBM-
+Onboarding 
+* Splash
+* Sign In
+Dashboard - static data
+* Sales
+* Achievements 
+* Visit 
+* Events 
+Sales Event
+* Create 
+* Update 
+Doctors
+* Create Doctors 
+* Create clinic 
+Visits
+* Doctor visit
+* NCA visit 
+My profile
+* Profile details 
+
+ABM-
+Onboarding 
+* Splash
+* Sign In
+Dashboard - static data
+* Sales
+* Achievements 
+* Visit 
+* Events 
+Sales Event
+* Create 
+* Update 
+Doctors
+* Create Doctors 
+* Create clinic 
+Visits
+* Doctor visit
+* NCA visit 
+My profile
+* Profile details 	
+TBM View
+
+Zonal Head-
+Onboarding 
+* Splash
+* Sign In
+Dashboard - not completed 
+* Sales
+* Achievements 
+* Visit 
+* Events 
+Sales Event
+* Create 
+* Update 
+Doctors
+* Create Doctors 
+* Create clinic 
+Visits
+* Doctor visit
+* NCA visit 
+My profile
+* Profile details 
+TBM View 
+ABM View 
+
+Web Interface -
+	
+Sales Head-
+* Login
+* Analysts 
+* Create sales 
+* Action 
+* View Sales event 
+* Create Sales event 
+* Update Sales event 
+* Create scheme 
+Help & support- pending
+My profile - pending
+
+Clinical Team -
+* Login
+* Dashboard
+* Query details- pending 
+My profile - pending
+
+Marketing Head -
+* Login 
+* Analytics - Half pending 
+KPI Management 
+* Create KPI
+* Update KPI
+Marketing Events 
+* Marketing events create
+* Marketing Events update 
+Help & support- pending
+My profile - pending
+
+Finance Head -
+* Login 
+* Analytics -  half pending 
+Finance management
+* Create Finance management 
+* Update Finance management 
+Inventory Management- completed
+* Primary sales
+* Create primary sales
+My profile - pending
