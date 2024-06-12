@@ -1,0 +1,97 @@
+Application - RegeNext
+Bug List- 
+
+TBM User
+	1- For second time login again showing Reset password
+	2- Account Information Image not showing
+	3- After sales Created Successfully popup - Automatically not redirecting to All created Sales Event page.
+	4- After Doctor Created Successfully popup - Automatically not redirecting to All created Doctor page.
+	5- After Doctor/NCA visit Created Successfully popup - Automatically not redirecting to All created Doctor/NCA Visit page.
+	6- All Dropdown fields shoundnot have courser
+	7- Product types should show in every created sales event
+	8- Product types should show in every created Doctor
+	9- Product types should show in every created Visit
+
+ABM User
+	1- For second time login again showing Reset password
+	2- Account Information Image not showing
+	3- Change TBM View Not Working (All Data Should come According to TBM Selected)
+	4- After sales Created Successfully popup - Automatically not redirecting to All created Sales Event page.
+	5- After Doctor Created Successfully popup - Automatically not redirecting to All created Doctor page.
+	6- After Doctor/NCA visit Created Successfully popup - Automatically not redirecting to All created Doctor/NCA Visit page.
+	7- All Dropdown fields shoundnot have courser
+	8- Product types should show in every created sales event
+	9- Product types should show in every created Doctor
+	10- Product types should show in every created Visit
+
+ZONAL HEAD User
+	1- For second time login again showing Reset password
+	2- Account Information Image not showing
+	3- Change TBM View Not Working (All Data Should come According to TBM Selected)
+	4- Change ABM View Not Working (All Data Should come According to ABM Selected)
+	5- After sales Created Successfully popup - Automatically not redirecting to All created Sales Event page.
+	6- After Doctor Created Successfully popup - Automatically not redirecting to All created Doctor page.
+	7- After Doctor/NCA visit Created Successfully popup - Automatically not redirecting to All created Doctor/NCA Visit page.
+	8- All Dropdown fields shoundnot have courser
+	9- Product types should show in every created sales event
+	10- Product types should show in every created Doctor
+	11- Product types should show in every created Visit
+
+
+
+CLINICAL HEAD
+-(NOTE) User not doing registration (Credential Given by ADMIN)
+	- Congratulations! Account Verified Successfully - not printing
+		1- Main Tite should be same as given in Figma
+		2- Search Option is not present
+		3- Column Heading Names, Size, Color is not same - refer figma
+		4- All 5 Filter options are not present above the Table
+		5- Querry Details is not Present
+		6- Close Querry option not showing
+		7- Closure comment form popup not showing
+		8- Progress information popup not showing
+		
+		9- Bottom Numbers of Table not present
+		10- Setting option not working
+		11- View profile not Working
+		12- Help & Supprot Not Working
+		
+		
+SALES HEAD
+-(NOTE) User not doing registration (Credential Given by ADMIN)
+	- Congratulations! Account Verified Successfully - not printing
+		1- Doctor wise sales section/Table not present
+		2- Conversion section/Table not present
+		3- Search option not present
+		4- Change (Doctor) column name to (Product)
+		5- Modify & Update sales event not working 
+		6- (Inventory) Every section/Table subtitles are not present - FIXED
+		7- View profile not Working
+		8- Help & Supprot Not Working
+		9- Setting option not working
+		
+FINANCE HEAD
+-(NOTE) User not doing registration (Credential Given by ADMIN)
+		1-(ANALYTICS)- Both Graph Section/Table are not present
+		2-(Sales) - All section/Table are not present in this screen
+		3- Add Update sales option on sales screen
+		4- Change Main Tite according to figma
+		5- Filter options are not working in inventory
+		6- View profile not Working
+		7- Help & Supprot Not Working
+		8- Setting option not working
+		
+MARKETING HEAD
+-(NOTE) User not doing registration (Credential Given by ADMIN)
+		1- MARKETING KPI Graph not present
+		2- (ANALYTICS) - Single Event view not working
+		3- Filter options not working
+		4- Remove (Geography) filter option and give (ABM) filter option
+		5- add month not present in create KPI form
+		6- Not able to save the created KPI
+		7- Create KPI add target & target month data not showing
+		8- Filter option is not present in MARKETING event page
+		9- Not able to create marketing Event 
+		10- View profile not Working
+		11- Help & Supprot Not Working
+		12- Setting option not working

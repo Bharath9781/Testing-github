@@ -1,0 +1,26 @@
+add/create stockist
+	- stockist name
+	- Contact number
+	- Address(location, pin code, district, state
+
+Update stockist 
+	stockist name
+	- Contact number
+	- Address(location, pin code, district, state
+	- Active/ Inactive stockist
+
+Inventory management
+	- Stockist name
+	- Opening stock 
+		- Volume (quantity)
+		- value (total price)
+	- Purchase
+		- Volume (quantity)
+		- value (total price)
+	- Sale
+		- Volume (quantity)
+		- value (total price)
+	- closing
+		- Volume (quantity)
+		- value (total price)
+	- Inventory days

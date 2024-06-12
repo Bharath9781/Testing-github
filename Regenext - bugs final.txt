@@ -1,0 +1,163 @@
+Regenext - bugs
+
+Login - if wrong email id or password user use - it is not showing error message
+
+ABM User
+
+Top Navigation bar color should be same as application screen.
+Congratulations! Doctor added successfully - alignment issue
+TBM doctor filter option is not working
+
+Doctors
+All doctor screen - Alignment issue
+On the doctor call function is not working
+Search option not working
+Filter option not working
+
+Visits
+Search option not working
+Filter option not working
+Date should be dynamic
+Doctor visit
+Create activity - Date & time - Colander & time option required 
+save button - save text alignment issue
+Congratulations! Doctor Visit data saved - alignment issue
+
+Sales Event
+Select Scheme - card size need to change
+Congratulations! order placed successfully - alignment issue
+Product type not showing on the profile image of sales event
+Date should be dynamic
+Product unit should be dynamic - (here per unit sale value is showing)
+Delivery date not showing
+Order status not given in update
+
+Home Dashboard
+(Sales data is coming)
+MTD & YTD Filter - Working or not (Doubt)
+
+Visits
+API Integration required
+
+
+
+
+My profile
+Terms & conditions
+Text Box size should be increase according to text length
+
+Privacy & Policy 
+Text Box size should be increase according to text length
+
+
+
+ABM User
+
+Not Able to select ABM/TBM
+
+Doctors
+Get Approved doctor for ABM is not coming
+
+(All doctor screen - Alignment issue
+On the doctor call function is not working
+Search option not working
+Filter option not working)
+
+Visits
+Visit is not showing for ABM
+
+(Search option not working
+Filter option not working
+Date should be dynamic
+Doctor visit
+Create activity - Date & time - Colander & time option required 
+save button - save text alignment issue
+Congratulations! Doctor Visit data saved - alignment issue)
+
+Sales Event
+Select Scheme - card size need to change
+Congratulations! order placed successfully - alignment issue
+Product type not showing on the profile image of sales event
+Date should be dynamic
+Product unit should be dynamic - (here per unit sale value is showing)
+Delivery date not showing
+Order status not given in update
+Select scheme card design is not correct
+After selecting product popup is not removing
+
+Home Dashboard
+Sales data is not coming for ABM user
+MTD & YTD Filter - Working or not (Doubt)
+
+Visits
+API Integration required
+
+Marketing Events
+Event data are not coming
+
+
+My profile
+Terms & conditions
+Text Box size should be increase according to text length
+
+Privacy & Policy 
+Text Box size should be increase according to text length
+
+
+
+Zonal Head
+
+Not Able to select ZH/ABM/TBM
+
+Doctors
+All doctor screen - Alignment issue
+On the doctor call function is not working
+Search option not working
+Filter option not working
+
+Visits
+Created Visit is not showing for ZH
+
+(Search option not working
+Filter option not working
+Date should be dynamic
+Doctor visit
+Create activity - Date & time - Colander & time option required 
+save button - save text alignment issue
+Congratulations! Doctor Visit data saved - alignment issue)
+
+Sales Event
+Created Sales Event is not coming
+
+(Select Scheme - card size need to change
+Congratulations! order placed successfully - alignment issue
+Product type not showing on the profile image of sales event
+Date should be dynamic
+Product unit should be dynamic - (here per unit sale value is showing)
+Delivery date not showing
+Order status not given in update
+Select scheme card design is not correct
+After selecting product popup is not removing)
+
+Home Dashboard
+Sales data is not coming for ABM user
+MTD & YTD Filter - Working or not (Doubt)
+
+Visits
+API Integration required
+
+Marketing Events
+Event data are not coming
+
+
+My profile
+Terms & conditions
+Text Box size should be increase according to text length
+
+Privacy & Policy 
+Text Box size should be increase according to text length
+
+
+
+
+
